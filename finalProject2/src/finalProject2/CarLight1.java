@@ -12,6 +12,7 @@ import javax.swing.JPanel;
 public class CarLight1 extends JPanel
 {
     private Color lastColor = Color.YELLOW;
+    systmoiniomkl,;.'.l,kmjnhgbfrd
     // For telling the panel to be repainted at regular intervals
     ScheduledExecutorService service = Executors.newSingleThreadScheduledExecutor();
 
